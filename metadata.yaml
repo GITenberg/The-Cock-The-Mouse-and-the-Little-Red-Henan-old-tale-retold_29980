@@ -24,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/34289
 description: After her friends refuse to help the little red hen with her housework,
   she uses an ingenious trick to save them all from a hungry fox.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29980#The-Cock-The-Mouse-and-the-Little-Red-Henan-old-tale-retold
 gutenberg_issued: '2009-09-13'
 gutenberg_type: Text
 identifiers:
