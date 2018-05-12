@@ -1,0 +1,43 @@
+_repo: The-Cock-The-Mouse-and-the-Little-Red-Henan-old-tale-retold_29980
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Sarg, Tony
+    alias: Sarg, Antonio Frederick
+    birthdate: 1880
+    deathdate: 1942
+    gutenberg_agent_id: '6532'
+    url: http://www.gutenberg.org/2009/agents/6532
+    wikipedia: http://en.wikipedia.org/wiki/Tony_Sarg
+covers:
+- cover_type: archival
+  image_path: 29980-h/images/cover.png
+creator:
+  author:
+    agent_name: Lefèvre, Félicité
+    aliases:
+    - Fèvre, Félicité Le
+    - Lefevre, Felicite
+    - Smith-Masters, Margaret
+    birthdate: 1869
+    gutenberg_agent_id: '34289'
+    url: http://www.gutenberg.org/2009/agents/34289
+description: After her friends refuse to help the little red hen with her housework,
+  she uses an ingenious trick to save them all from a hungry fox.
+gutenberg_issued: '2009-09-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29980'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Folklore'
+- !lcsh 'Animals -- Juvenile fiction'
+- !lcsh 'Children''s stories'
+- !lcc 'PZ'
+title: 'The Cock, The Mouse and the Little Red Hen
+
+  an old tale retold'
+url: http://www.gutenberg.org/ebooks/29980
